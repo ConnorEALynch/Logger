@@ -4,5 +4,6 @@ namespace Logger
 {
     static public class Logger
     {
+
     }
 }
